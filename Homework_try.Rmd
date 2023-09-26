@@ -1,0 +1,9 @@
+---
+title: "HW3"
+author: "Papiya Bhattacharya"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+
+This is a try
